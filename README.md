@@ -3,7 +3,7 @@
 **Contact:**  
 📧 [rahul.naha09@gmail.com](mailto:rahul.naha09@gmail.com)  
 🌐 [LinkedIn](https://linkedin.com/in/rahul-naha-051aa5224) | [GitHub](https://github.com/RahulNaha)  
-🔗 [Google Drive Portfolio](https://drive.google.com/drive/folders/1rjYDZH-JNBqbngvi0Q9jfvtoP06oFhlt?usp=sharing)
+
 
 ---
 
@@ -14,15 +14,7 @@
 CGPA: 8.32  
 2021 – Present | Vellore, India
 
-**Delhi Public School Siliguri**  
-*Class 12*  
-Percentage: 85  
-2020 | Siliguri, India
 
-**Delhi Public School Siliguri**  
-*Class 10*  
-Percentage: 89.4  
-2018 | Siliguri, India
 
 ---
 
@@ -32,11 +24,6 @@ Percentage: 89.4
 GreatFour Systems  
 September 2024 – November 2024  
 - Developed an installer for the product ‘Harmony’, improving application usability and deployment efficiency by 30%.
-
-**Contributor**  
-GirlScript Summer Of Code  
-May 2024 – August 2024  
-- Contributed to 3 impactful open-source projects, enhancing debugging, version control, and code review skills.
 
 ---
 
